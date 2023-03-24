@@ -1,2 +1,2 @@
 # Spambrutalv7.
-<p align=left> <img src=https://komarev.com/ghpvc/?username=kangdecasu alt=Demias/> </p>
+<p align=left> <img src=https://komarev.com/ghpvc/?username=spambrutal alt=Demias/> </p>
