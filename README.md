@@ -1,4 +1,4 @@
-# Spambrutalv7.
+# Spambrutalv7.8
 <p align=left> <img src=https://komarev.com/ghpvc/?username=spambrutal alt=Demias/> </p>
 # package
 > pkg update && pkg upgrade 
@@ -13,9 +13,9 @@
 
 > pkg install nano 
 
-> git clone https://github.com/Dra-ID/Spambrutalv7.
+> git clone https://github.com/Dra-ID/Spambrutalv7.8
 
-> cd Spambrutalv7.
+> cd Spambrutalv7.8
 
 > sh module.sh
 
