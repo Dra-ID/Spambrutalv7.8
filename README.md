@@ -1,6 +1,8 @@
 # Spambrutalv7.8
 <p align=left> <img src=https://komarev.com/ghpvc/?username=spambrutal alt=Demias/> </p>
+
 # package
+
 > pkg update && pkg upgrade 
 
 > pkg install python
